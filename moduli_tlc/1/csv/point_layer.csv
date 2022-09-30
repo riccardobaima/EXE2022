@@ -1,0 +1,9 @@
+qc_id,id,nome,associazio,TIPO,"Connessione satellitare
+",Notebook,Stampante multifunzione,Telefoni VOIP,Collegamenti PUNTO PUNTO,Apparati distribuazone WIRELESS,Ripetitore + PEPLINK,Apparati Radio,icon_url
+"1","1",TLC_08,RNRE,ICT,,,,,,,,,./0.png
+"2","2",TLC_04,RNRE,ICT,,,,,,,,,./0.png
+"3","3",TLC_03,RNRE,ICT,,,,,,,,,./0.png
+"4","4",TLC_06,RNRE,ICT/TLC,,,,,,,,,./0.png
+"5","5",TLC_05,RNRE,ICT/TLC,,,,,,,,,./0.png
+"6","6",TLC_02,FIRCB,TLC,,,,,,,,,./1.png
+"7","7",TLC_01,FIRCB,ICT/TLC,,,,,,,,,./1.png
