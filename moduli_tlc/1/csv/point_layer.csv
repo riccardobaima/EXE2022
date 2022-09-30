@@ -1,9 +1,9 @@
 qc_id,id,nome,associazio,TIPO,"Connessione satellitare
-",Notebook,Stampante multifunzione,Telefoni VOIP,Collegamenti PUNTO PUNTO,Apparati distribuazone WIRELESS,Ripetitore + PEPLINK,Apparati Radio,icon_url
-"1","1",TLC_08,RNRE,ICT,,,,,,,,,./0.png
-"2","2",TLC_04,RNRE,ICT,,,,,,,,,./0.png
-"3","3",TLC_03,RNRE,ICT,,,,,,,,,./0.png
-"4","4",TLC_06,RNRE,ICT/TLC,,,,,,,,,./0.png
-"5","5",TLC_05,RNRE,ICT/TLC,,,,,,,,,./0.png
-"6","6",TLC_02,FIRCB,TLC,,,,,,,,,./1.png
-"7","7",TLC_01,FIRCB,ICT/TLC,,,,,,,,,./1.png
+",Notebook,Stampante multifunzione,Telefoni VOIP,Collegamenti PUNTO PUNTO,Apparati distribuazone WIRELESS,Ripetitore + PEPLINK,Apparati Radio,latitude,longitude,icon_url
+"1","1",TLC_08,RNRE,ICT,,,,,,,,,38.67054937,15.59926032,./0.png
+"2","2",TLC_04,RNRE,ICT,,,,,,,,,38.32985966,14.97736214,./0.png
+"3","3",TLC_03,RNRE,ICT,,,,,,,,,38.47302387,15.35050105,./0.png
+"4","4",TLC_06,RNRE,ICT/TLC,,,,,,,,,38.24748821,14.50705163,./0.png
+"5","5",TLC_05,RNRE,ICT/TLC,,,,,,,,,37.89253365,16.35331188,./0.png
+"6","6",TLC_02,FIRCB,TLC,,,,,,,,,37.55126868,15.70031878,./1.png
+"7","7",TLC_01,FIRCB,ICT/TLC,,,,,,,,,37.71748586,15.99572042,./1.png
